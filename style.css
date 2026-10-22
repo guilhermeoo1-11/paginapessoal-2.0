@@ -13,7 +13,7 @@ width: 100%;
 padding: 20px;
 }
 .cabecalho-itens{
-max-width: 250px;
+max-width: 1980px;
 margin: 0 auto;
 display: flex;
 align-items: center;
@@ -99,6 +99,8 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #1D3557;
+  display: flex;
+  justify-content: center;
 }
 
 ul li {
