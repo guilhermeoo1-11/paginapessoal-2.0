@@ -7,7 +7,7 @@ body{
 font-family: "Poppins", sans-serif;
 }
 header{
-background-color: #424e61;
+background-color: #101C2C;
 color: white;
 width: 100%;
 padding: 20px;
@@ -114,5 +114,5 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #111111;
+  background-color: #1D3557;
 }
