@@ -7,35 +7,38 @@ body{
 font-family: "Poppins", sans-serif;
 }
 header{
-background-color: #101C2C;
-color: #D97732;
-width: 100%;
-padding: 20px;
+    background-color: #101C2C;
+    color: #D97732;
+    width: 100%;
+    padding: 20px;
 }
 .cabecalho-itens{
-max-width: 1980px;
-margin: 0 auto;
-display: flex;
-align-items: center;
-justify-content: center;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 .cabecalho-imagem{
-width: 250px;
-display: flex;
-justify-content: flex-start;
-align-items: center;
+    width: 200px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
 }
 .titulo_site{
-padding: 50px;
-text-align: center;
-width: 50%;
-font: 30px;
+    padding: 20px;
+    text-align: center;
+    flex: 1;
+    font-size: 30px;
 }
 .sociais{
-display: flex;
-justify-content: flex-end;
-width: 28%;
-padding-right: 30px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 15px;
+    width: 200px;
+    padding-right: 0;
 }
 .banner1{
 display: flex;
