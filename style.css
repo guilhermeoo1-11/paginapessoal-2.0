@@ -8,12 +8,12 @@ font-family: "Poppins", sans-serif;
 }
 header{
 background-color: #101C2C;
-color: #1D3557;
+color: #D97732;
 width: 100%;
 padding: 20px;
 }
 .cabecalho-itens{
-max-width: 1980px;
+max-width: 250px;
 margin: 0 auto;
 display: flex;
 align-items: center;
@@ -107,7 +107,7 @@ ul li {
 
 ul li a {
   display: block;
-  color: white;
+  color: #1D3557;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
